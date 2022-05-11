@@ -1,7 +1,7 @@
 <h1 align="center">Hi... I'm Gustavo!</h1>
 <h3 align="center">A Web3 & Blockchain developer.</h3>
 
-- 🔭 I’m currently working on [a algorithm solidity library.](https://github.com/0x6775737461766f/solidity-algorithms)
+- 🔭 I’m currently working on [a solidity algorithm library.](https://github.com/0x6775737461766f/solidity-algorithms)
 
 - 🌱 I’m currently learning **Rust and Web3 development.**
 
