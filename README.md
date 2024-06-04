@@ -1,5 +1,5 @@
 <h1 align="center">Hi... I'm Gustavo!</h1>
-<h3 align="center">Blockchain Engineer and Web3 Developer.</h3>
+<h3 align="center">Blockchain & Backend Developer.</h3>
 
 - 🔭 I’m currently working on a [ethereum stats tracker.](https://web3-stats-c99e98d6ad62.herokuapp.com/)
 
